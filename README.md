@@ -6,7 +6,7 @@
 
 Este repositorio contiene el desarrollo del código, datos y reporte de investigación enfocado en el modelado y pronóstico de la tasa de interés real ex ante en México, integrando Análisis Topológico de Datos y algoritmos de Machine Learning.
 
-📄 **[Leer el artículo de investigación completo (PDF)](./docs/Articulo_Homologia_Persistente.pdf)**
+📄 **[Leer el artículo de investigación completo (PDF)](./docs/Análisis y predicción de la tasa de interés real ex ante mediante homología persistente.pdf)**
 
 ---
 
